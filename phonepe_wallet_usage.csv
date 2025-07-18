@@ -1,0 +1,6 @@
+User_ID,Transaction_ID,Transaction_Date,Transaction_Amount,Transaction_Type,City,Payment_Method
+101,TXN001,2025-07-01,250,Recharge,Bangalore,Wallet Balance
+102,TXN002,2025-07-02,1200,Shopping,Delhi,Wallet Balance
+103,TXN003,2025-07-03,500,Bills,Mumbai,UPI
+104,TXN004,2025-07-04,750,Groceries,Hyderabad,UPI
+105,TXN005,2025-07-05,400,Recharge,Chennai,Wallet Balance
